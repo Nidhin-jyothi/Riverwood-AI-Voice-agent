@@ -70,11 +70,11 @@ Riverwood/
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/riverwood-voice-assistant.git
+git clone https://github.com/Nidhin-jyothi/Riverwood-AI-Voice-agent.git
 cd riverwood-voice-assistant
 
 # Install dependencies
