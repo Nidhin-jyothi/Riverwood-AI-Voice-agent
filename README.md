@@ -75,7 +75,7 @@ Riverwood/
 ```bash
 # Clone repository
 git clone https://github.com/Nidhin-jyothi/Riverwood-AI-Voice-agent.git
-cd riverwood-voice-assistant
+cd app
 
 # Install dependencies
 pip install -r requirements.txt
