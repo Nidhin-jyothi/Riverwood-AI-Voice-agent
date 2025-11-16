@@ -15,9 +15,9 @@ and provides daily project updates.
 
 ---
 
-## Screenshot — Backend pipeline
+## Backend pipeline
 
-![Backend pipeline screenshot](data/screenshots/backend_pipeline.png)
+![Backend pipeline screenshot](data/screenshots/backend_pipeline.jpg)
 
 ---
 
