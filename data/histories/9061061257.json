@@ -1,0 +1,54 @@
+{
+  "user_id": "9061061257",
+  "conversations": [
+    {
+      "timestamp": "2025-11-13T05:39:42.955593",
+      "direction": "user",
+      "text": "Hello.",
+      "audio_path": null,
+      "summary_tags": []
+    },
+    {
+      "timestamp": "2025-11-13T05:39:42.975972",
+      "direction": "assistant",
+      "text": "Arey, good morning Rajesh ji! Kaise hain aap? Chai-nashta ho gaya aapka? Bas pooch raha tha.",
+      "audio_path": "E:\\Riverwood\\app\\data\\tts\\last_tts.mp3",
+      "summary_tags": []
+    },
+    {
+      "timestamp": "2025-11-13T05:40:07.212417",
+      "direction": "user",
+      "text": "Kahan ho gaya? flooring ka kam kaise chal raha hai?",
+      "audio_path": null,
+      "summary_tags": []
+    },
+    {
+      "timestamp": "2025-11-13T05:40:07.233089",
+      "direction": "assistant",
+      "text": "Arey Rajesh ji, flooring ka kaam almost complete ho gaya hai! Kal finishing touches lag rahe the. Aaj painters aaye hain site pe.",
+      "audio_path": "E:\\Riverwood\\app\\data\\tts\\last_tts.mp3",
+      "summary_tags": [
+        "flooring",
+        "painting",
+        "site update"
+      ]
+    },
+    {
+      "timestamp": "2025-11-13T05:40:28.459359",
+      "direction": "user",
+      "text": "Dhanyavad.",
+      "audio_path": null,
+      "summary_tags": []
+    },
+    {
+      "timestamp": "2025-11-13T05:40:28.475077",
+      "direction": "assistant",
+      "text": "Arey koi baat nahi Rajesh ji. Theek hai, kal milte hain site pe. Tab tak kaam aur aage badhega. Apna dhyaan rakhna!",
+      "audio_path": "E:\\Riverwood\\app\\data\\tts\\last_tts.mp3",
+      "summary_tags": [
+        "closing",
+        "friendly"
+      ]
+    }
+  ]
+}

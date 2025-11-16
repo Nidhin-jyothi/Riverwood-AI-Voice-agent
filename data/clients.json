@@ -1,0 +1,18 @@
+{
+  "9061061257": {
+    "user_id": "9061061257",
+    "name": "Rajesh Sharma",
+    "location": "Sector 7, Riverwood Estate",
+    "language": "hi",
+    "preferences": {
+      "greeting_style": "friendly",
+      "topic_interest": ["garden", "property update"]
+    }
+  },
+  "9998887777": {
+    "user_id": "9998887777",
+    "name": "Sunita Verma",
+    "location": "Sector 3, Riverwood Estate",
+    "language": "hi"
+  }
+}
